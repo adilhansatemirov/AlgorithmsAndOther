@@ -1,0 +1,132 @@
+Student information:
+	Name and Surname: Sultan Tazhibayev
+	Student ID: 170103001
+Course information: 
+	Course ID: INF-104
+	Title: Programming Technologies
+	Teacher: Shahriyar Shamilulu
+	Grades: 
+		Quiz: 50
+		Homework: 60
+		Midterm: 70
+		Final: 100
+		Average: 82.0
+Course information: 
+	Course ID: INF-105
+	Title: ICT
+	Teacher: Ardak Shalkarbayuly
+	Grades: 
+		Quiz: 76
+		Homework: 80
+		Midterm: 46
+		Final: 99
+		Average: 78.9
+Course information: 
+	Course ID: INF-106
+	Title: Introduction to Python
+	Teacher: Satbek Abdyldayev
+	Grades: 
+		Quiz: 88
+		Homework: 90
+		Midterm: 66
+		Final: 50
+		Average: 62.6
+
+Student information:
+	Name and Surname: Marat Baybekov
+	Student ID: 170103002
+Course information: 
+	Course ID: INF-104
+	Title: Programming Technologies
+	Teacher: Shahriyar Shamilulu
+	Grades: 
+		Quiz: 50
+		Homework: 60
+		Midterm: 70
+		Final: 100
+		Average: 82.0
+Course information: 
+	Course ID: MAT-100
+	Title: Calculus 1
+	Teacher: Larisa Bazarbayeva
+	Grades: 
+		Quiz: 100
+		Homework: 100
+		Midterm: 100
+		Final: 100
+		Average: 100.0
+Course information: 
+	Course ID: MAT-101
+	Title: Linear Algebra
+	Teacher: Mariya Nemchenko
+	Grades: 
+		Quiz: 90
+		Homework: 90
+		Midterm: 89
+		Final: 100
+		Average: 94.7
+
+Student information:
+	Name and Surname: Talgat Almasov
+	Student ID: 170103003
+Course information: 
+	Course ID: INF-104
+	Title: Programming Tachnologies
+	Teacher: Shahriyar Shamilulu
+	Grades: 
+		Quiz: 90
+		Homework: 91
+		Midterm: 92
+		Final: 100
+		Average: 95.7
+Course information: 
+	Course ID: MAT-100
+	Title: Calculus 1
+	Teacher: Larisa Bazarbayeva
+	Grades: 
+		Quiz: 100
+		Homework: 90
+		Midterm: 80
+		Final: 90
+		Average: 88.0
+Course information: 
+	Course ID: TR-108
+	Title: Principals of Translation
+	Teacher: Oksana Surmen
+	Grades: 
+		Quiz: 100
+		Homework: 100
+		Midterm: 100
+		Final: 100
+		Average: 100.0
+
+ CALCULATING AVERAGE GRADE IN THE COURSE INF-104
+Average INF-104 of Sultan Tazibayev: 82.0
+Average INF-104 of Marat Baybekov: 82.0
+Average INF-104 of Talgat Almasov: 95.7
+INF-104 Average: 86.57
+
+ CALCULATING AVERAGE GRADE IN THE COURSE MAT-104
+Average MAT-100 of Marat Baybekov: 100.0
+Average MAT-100 of Talgat Almasov: 88.0
+MAT-100 Average: 94.0
+
+ PERFORMANCE OF SULTAN TAZHIBAYEV
+Sultan Tazhibaev's average of course 'INF-104': 82.0
+Sultan Tazhibaev's average of course 'INF-105': 78.9
+Sultan Tazhibaev's average of course 'INF-106': 62.6
+Performance of Sultan Tazhibayev: 74.5
+
+ PERFORMANCE OF MARAT BAYBEKOV
+Marat Baybekov's average of course 'INF-104': 82.0
+Marat Baybekov's average of course 'MAT-100': 100.0
+Marat Baybekov's average of course 'MAT-101': 94.7
+Average of Baybekov Marat: 92.23
+
+ PERFORMANCE OF TALGAT ALMASOV
+Talgat Almasov's average of course 'INF-104': 95.7
+Talgat Almasov's average of course 'MAT-100': 88.0
+Talgat Almasov's average of course 'TR-108': 100.0
+Average of Almasov Talgat: 94.57
+
+
